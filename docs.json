@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "SyncMyGroup",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,14 +11,15 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Example Use Cases",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Example Use Cases",
             "pages": [
               "introduction",
               "quickstart",
-              "googleslack"
+              "googleslack",
+              "slacktojira"
             ]
           },
           {
