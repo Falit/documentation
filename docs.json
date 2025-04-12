@@ -16,10 +16,12 @@
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
-              "quickstart",
-              "googleslack",
-              "slacktojira"
+              "createintegration",
+              "createteam",
+              "createsourceteam",
+              "createdestinationteam",
+              "updateteammapping",
+              "generateteamreport"
             ]
           },
           {
