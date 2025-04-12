@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Example Use Cases",
+        "tab": "Get Started",
         "groups": [
           {
-            "group": "Example Use Cases",
+            "group": "Get Started",
             "pages": [
               "introduction",
               "quickstart",
@@ -23,34 +23,10 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Example Use Cases",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "googleslack",
+              "slacktojira"
             ]
           }
         ]
@@ -60,18 +36,18 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.syncmygroup.com",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Slack App",
+          "href": "https://slack.com/oauth/v2/authorize?client_id=2800907882597.8146429502724&scope=app_mentions:read,chat:write,team:read,usergroups:read,usergroups:write,users:read,users:read.email,channels:read,channels:manage,groups:read&user_scope=&state=25c3818d-ec64-4c42-a45a-eb07a2b3f769",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Book a meeting",
+          "href": "https://cal.com/syncmygroup",
+          "icon": "call"
         }
       ]
     }
@@ -84,20 +60,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@syncmygroup.com"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "href": "https://app.syncmygroup.com"
     }
   }
 }
