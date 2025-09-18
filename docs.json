@@ -21,7 +21,9 @@
               "createsourceteam",
               "createdestinationteam",
               "updateteammapping",
-              "generateteamreport"
+              "generateteamreport",
+              "slackusergrouppermission"
+            
             ]
           },
           {
